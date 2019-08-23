@@ -1,0 +1,21 @@
+Conciliação Bancária: Análise de Saldos Bancários, Registros de Entradas e Saídas;
+
+Elaboração do Fluxo de Caixa: Atualização da Posição Futura de Contas e Gestão das Provisões de Desembolsos;
+
+Contas a Pagar: Administração de pagamento a fornecedores, Folha de Pagamento de Funcionários e Gestão de Contas de Consumo;
+
+Contas a Receber: Atualização de Recebimentos, Manutenção do Fluxo de Cobrança e Controle de Recebíveis;
+
+Gestão de Indicadores: Construção de Indicadores de Desempenho Financeiro;
+
+Análise de Crédito: Extração de Posição Negativa em Órgão de Crédito e Avaliação de Crédito para a Realização de Negócios;
+
+Emissão de Documentos Fiscais: Faturamento de Vendas e Contratos, Emissão de Boletos Bancários e Confirmação de Recebimento de Documentos.
+
+Gerenciamento estratégico;
+Controle do fluxo de caixa;
+Contas a pagar;
+Contas a receber;
+Faturamento;
+Gestão orçamentária;
+Dentre muitos outros;
